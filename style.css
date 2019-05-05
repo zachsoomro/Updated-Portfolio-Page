@@ -35,7 +35,7 @@ nav a {
   list-style: none;
   display: inline;
   padding: 5px;
-  color: #ffebed;
+  color: black;
   transition: 0.25s;
 }
 
@@ -64,6 +64,7 @@ h1 {
 
 h2 {
   font-size: 2rem;
+  color: black;
 }
 
 h1,
@@ -170,7 +171,7 @@ footer {
   right: 0;
   text-align: center;
   background-color: #681526;
-  color: #ffebed;
+  color: black;
 }
 
 .push,
